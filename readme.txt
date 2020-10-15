@@ -1,4 +1,4 @@
-This was something I made in high school. It is a Sudoku puzzle solver.
+This was something I made for fun. It is a Sudoku puzzle solver.
 It keeps track of the possible numbers that could occupy each square,
 tries out a number and eliminates that number as a possibility in
 its row, column and three by three square. When the program reaches a point
